@@ -32,6 +32,6 @@ Extras:
 
 ### 📁 Acesso ao projeto
 
-https://jogo-d-n-secreto-68qxz99z2-nestto.vercel.app/
+https://oracle-alura-decodificador-github-io.vercel.app/
 
 <img src="https://github.com/nestto/oracle-alura-decodificador/assets/125527244/c74f82d2-b0c6-48ca-9d99-4a29513402ec" width="70%">
