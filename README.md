@@ -34,4 +34,4 @@ Extras:
 
 https://jogo-d-n-secreto-68qxz99z2-nestto.vercel.app/
 
-<img src="https://github.com/nestto/oracle-alura-decodificador/assets/125527244/15539273-22a8-40cf-bbc1-43240d6bd6b0" width="40%">
+<img src="https://github.com/nestto/oracle-alura-decodificador/assets/125527244/c74f82d2-b0c6-48ca-9d99-4a29513402ec" width="70%">
